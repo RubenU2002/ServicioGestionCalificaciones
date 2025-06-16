@@ -18,6 +18,7 @@ Esta aplicacion permite registrar estudiantes, cursos y sus calificaciones en un
 3. La API quedara disponible en `http://localhost:8080`.
 
 La consola de H2 esta habilitada en `/h2-console`.
+La documentacion Swagger UI esta disponible en `/swagger-ui.html`.
 
 ## Uso de la API
 - **Crear estudiante**
